@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Kaster Blog",
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      "This is a code repository for personal blog, using Next.js, Sanity.io, Tailwindcss",
     image: "/images/1.png",
     tags: ["Next", "Sanity.io", "Tailwind", "Typescript", "Marterial"],
     source: "https://kaster-blog.vercel.app/",
@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Bar Map",
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+      "This is a code repository for Taiwanese bar search, using VUE.js(V3), Naive UI, Pinia, Googlemap Api, Github Api, Tailwindcss, because this is a progressive web app ,you need to switch your console responsive mode to mobile or add this web page to your desktop",
     image: "/images/2.png",
     tags: ["Vue 3", "PWA", "Google Map Api", "Github Api"],
     source: "https://map-black.vercel.app/",
@@ -22,7 +22,7 @@ export const projects = [
   {
     title: "chat",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+      "This is a code repository for the Chat room, Using React Native, Before you install this App, you need to install Xcode for the ios simulator",
     image: "/images/4.jpg",
     tags: ["React-Native", "Firebase", "expo"],
     source: "https://expo.dev/artifacts/eas/i8PnAoLNDJX8VhDkDLBmTr.tar.gz",
@@ -32,7 +32,7 @@ export const projects = [
   {
     title: "web3.0",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+      "This is a code repository for the Metamask, Using VUE.js(V3), Web3.js, Naive UI, Pinia, Tailwindcss, you can search your cryptocurrency balance, and change your chain into other chain",
     image: "/images/3.jpg",
     tags: ["Nuxt", "Web3.js"],
     source: "https://web3-0-tan.vercel.app/",
