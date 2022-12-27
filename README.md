@@ -1,3 +1,3 @@
-## Personal Portfolio
+網站： https://portfolio-kaikai0517.vercel.app/
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+主要功能： 利用next.js與style-components製作的個人履歷
