@@ -19,7 +19,7 @@ const Technologies = () => (
     <SectionDivider></SectionDivider>
     <br></br>
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>asuyirgiuasdfiubasdiufhiuasdhf</SectionText>
+    <SectionText></SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem"></DiReact>

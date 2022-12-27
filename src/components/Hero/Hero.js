@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 import {
   Section,
@@ -15,8 +16,10 @@ const Hero = (props) => (
         Welcome To <br />
         My Personal Portfolio
       </SectionTitle>
-      <SectionText>Hello, Im Kaster</SectionText>
-      <Button onClick={() => {}}>Learn More</Button>
+      <SectionText>Hello, Im Kaster </SectionText>
+      <Button onClick={()=>{window.location = "https://github.com/kaikai0517"}}>
+          Learn more
+      </Button>
     </LeftSection>
   </Section>
 );

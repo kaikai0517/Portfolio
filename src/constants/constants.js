@@ -32,7 +32,7 @@ export const projects = [
   {
     title: "web3.0",
     description:
-      "This is a code repository for the Metamask, Using VUE.js(V3), Web3.js, Naive UI, Pinia, Tailwindcss, you can search your cryptocurrency balance, and change your chain into other chain",
+      "This is a code repository for the Metamask, Using Nuxt.js, Web3.js, Naive UI, Pinia, Tailwindcss, you can search your cryptocurrency balance, and change your chain into other chain",
     image: "/images/3.jpg",
     tags: ["Nuxt", "Web3.js"],
     source: "https://web3-0-tan.vercel.app/",
